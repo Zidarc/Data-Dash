@@ -24,3 +24,11 @@ The project provides interactive dashboards to explore sales trends, music genre
    ```bash
    git clone https://github.com/Zidarc/Data-Dash.git
 2. Open the .pbix file in Power BI
+
+
+## Team
+- Ali Hussain  
+- Hatim Mustafa
+- Asad Majeed
+---
+   
